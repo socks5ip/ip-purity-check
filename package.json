@@ -1,0 +1,53 @@
+{
+  "name": "ip-purity-check",
+  "version": "1.0.0",
+  "description": "Score an IP's cleanliness from the command line: ~25 DNSBL blocklists plus reverse DNS, turned into a 0-100 purity score. Zero dependencies, no API key, no third-party HTTP service.",
+  "main": "index.js",
+  "bin": {
+    "ip-purity-check": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js 8.8.8.8"
+  },
+  "keywords": [
+    "ip",
+    "ip-reputation",
+    "dnsbl",
+    "blacklist",
+    "rbl",
+    "spamhaus",
+    "ip-check",
+    "ip-purity",
+    "ip-cleanliness",
+    "residential-proxy",
+    "proxy",
+    "rdns",
+    "ptr",
+    "network",
+    "security",
+    "cli",
+    "zero-dependencies"
+  ],
+  "author": {
+    "name": "socks5ip",
+    "url": "https://socks5ip.com.cn"
+  },
+  "license": "MIT",
+  "homepage": "https://socks5ip.com.cn/ip-check-center/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socks5ip/ip-purity-check.git"
+  },
+  "bugs": {
+    "url": "https://github.com/socks5ip/ip-purity-check/issues"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {}
+}
