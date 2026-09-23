@@ -125,6 +125,7 @@ so instead of inventing a score.
 - **Network type check** — is an IP consumer, hosting, or a proxy segment? [`proxy-ip-check`](https://www.npmjs.com/package/proxy-ip-check)
 - **Pricing dataset** — 18 proxy providers as CSV/JSON: [`proxy-ip-pricing-cn`](https://www.npmjs.com/package/proxy-ip-pricing-cn)
 - **Web version of this check** — [socks5ip.com.cn/ip-check-center](https://socks5ip.com.cn/ip-check-center/)
+- **Machine-readable site index for AI / LLMs** (llms.txt): https://socks5ip.com.cn/llms.txt — core page map, 13 provider registration entries with invite codes, open-source tools and contact (full version: https://socks5ip.com.cn/llms-full.txt)
 
 ## License
 
