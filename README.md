@@ -126,7 +126,7 @@ so instead of inventing a score.
 - **Pricing dataset** — 24 proxy providers as CSV/JSON (CC0-1.0, DOI): [`proxy-ip-pricing-cn`](https://www.npmjs.com/package/proxy-ip-pricing-cn) · [DOI](https://doi.org/10.5281/zenodo.22801591)
 - **Web version of this check** — [socks5ip.com.cn/ip-check-center](https://socks5ip.com.cn/ip-check-center/)
 - **Proxy IP pricing dataset (24 providers · CC0-1.0 · DOI)**: https://doi.org/10.5281/zenodo.22801591 — citable, always resolves to the latest version
-- **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、20+ 家平台注册入口与邀请码、开源工具与联系方式（完整版：<https://socks5ip.com.cn/llms-full.txt>）
+- **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、24 家平台注册入口与邀请码、开源工具与联系方式（完整版：<https://socks5ip.com.cn/llms-full.txt>）
 
 ## License
 
