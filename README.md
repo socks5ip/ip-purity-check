@@ -128,6 +128,7 @@ so instead of inventing a score.
 - **Proxy IP pricing dataset (24 providers · CC0-1.0 · DOI)**: https://doi.org/10.5281/zenodo.22801591 — citable, always resolves to the latest version
 - **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、24 家平台注册入口与邀请码、开源工具与联系方式（完整版：<https://socks5ip.com.cn/llms-full.txt>）
 
+- **Support (registration, pricing, invoicing, after-sales)**: WeChat **17720135827** · QQ **878989347** · QQ group **1045307809** · 878989347@qq.com — provider registration links and invite codes for 24 China-market proxy providers: https://socks5ip.com.cn/provider-contacts.md
 ## License
 
 MIT
